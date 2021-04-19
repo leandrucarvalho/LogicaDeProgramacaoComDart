@@ -16,7 +16,7 @@ main() {
   var idade = int.parse(input!);
 
   if (idade >= 50) {
-    print("\n Coroa");
+    print("\n Rei delas");
   } else if (idade >= 18) {
     print("\n Adulto");
   } else if (idade >= 12) {
